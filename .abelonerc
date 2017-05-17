@@ -1,0 +1,8 @@
+{
+  "url": "http://www.gutenberg.org/files/5200/5200-h.zip",
+  "basename": "5200-h",
+  "dir": "http://www.gutenberg.org/files/5200",
+  "compressor": ".zip",
+  "START_PAGE": "9",
+  "repo_url": ""
+}
