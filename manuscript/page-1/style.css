@@ -1,0 +1,6 @@
+html, body {
+    background-image: url(https://raw.githubusercontent.com/marvindanig/metamorphosis/master/cover/cover.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: 100% 100%;
+}
