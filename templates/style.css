@@ -92,14 +92,20 @@ a:active {
 
 p {
     text-indent: 5vw;  
-    margin: 0 0 0 0;    
-    -webkit-hyphens: auto;
+    margin: 0 0 0 0;
+    caret-color: red; 
+/*    -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto; 
+*/
 }
 
 .no-indent {
   text-indent: 0;
+}
+
+.stretch-last-line {
+  text-align-last: justify;
 }
 
 hr.section {
