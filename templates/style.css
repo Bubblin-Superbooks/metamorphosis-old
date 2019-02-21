@@ -72,11 +72,11 @@ a:active {
 }
 
 .inner {
-  margin: 10% auto; 
+  margin: calc((100vh - (17 * (4vw * 1.5) + 4vw))/2) auto; 
   width: 85vw;
-  height: calc(17 * (4vw * 1.5) + 4vw);
-  /*break-after: right; */
-   background: aliceblue; 
+  max-height: calc(17 * (4vw * 1.5) + 4vw);
+  break-after: right; 
+   /*background: aliceblue; */
 }
 
 .flex {
@@ -92,11 +92,10 @@ a:active {
 
 p {
     text-indent: 5vw;  
-    margin: 0 0 0 0;
-    /*
+    margin: 0 0 0 0;    
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
-    hyphens: auto; */
+    hyphens: auto; 
 }
 
 .no-indent {
@@ -115,7 +114,7 @@ hr.section::after {
 }
 
 hr.section::before {
-  content: "❦"; 
+  content: "❖"; 
   color: black;
 }
 
