@@ -3,6 +3,6 @@
   "basename": "5200-h",
   "dir": "http://www.gutenberg.org/files/5200",
   "compressor": ".zip",
-  "START_PAGE": "8",
+  "START_PAGE": "10",
   "repo_url": ""
 }

@@ -1,7 +1,5 @@
 {
-  "0": "<li><a class = \"page\" href=\"9\">  Franz Kafka  </a> <span class=\"flex\">9</span> </li>",
-  "1": "<li><a class = \"page\" href=\"10\"> Translated by David Wyllie </a> <span class=\"flex\">10</span> </li>",
-  "2": "<li><a class = \"page\" href=\"11\"> PART I </a> <span class=\"flex\">11</span> </li>",
-  "3": "<li><a class = \"page\" href=\"52\"> Part II </a> <span class=\"flex\">52</span> </li>",
-  "4": "<li><a class = \"page\" href=\"95\"> PART III </a> <span class=\"flex\">95</span> </li>"
+  "0": "<li><a class = \"page\" href=\"10\"> PART I </a> <span class=\"flex\">10</span> </li>",
+  "1": "<li><a class = \"page\" href=\"51\"> Part II </a> <span class=\"flex\">51</span> </li>",
+  "2": "<li><a class = \"page\" href=\"94\"> PART III </a> <span class=\"flex\">94</span> </li>"
 }
