@@ -6,6 +6,7 @@
     "HEAD": "html"
   },
   "name": "Metamorphosis",
+  "has_page_numbers": true,  
   "type": "blank",
   "book_id": 417
 }
